@@ -12,4 +12,5 @@ Computer Systems - Scripts Programming
 1. Write a script named `01_hello.sh` which write on the screen the message "Hello world!".
 
 ## References
-- Referemce
+- [https://bash.cyberciti.biz/guide/Main_Page](Linux Bash Shell Scripting Tutorial.)
+- [https://www.um.es/docencia/barzana/DIVULGACION/INFORMATICA/Aprenda_Linux.pdf](Aprenda Linux como si estuviera en primero.)
