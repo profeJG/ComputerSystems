@@ -1,4 +1,8 @@
 #!/bin/bash
+# Write a script named `03_mayor.sh` which ask for two numbers and say 
+# which is the biggest one.
+# @author: José Gaspar Sánchez García.
+
 clear
 echo -n "Introduce un número: "
 read A
